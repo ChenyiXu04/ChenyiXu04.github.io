@@ -9,7 +9,7 @@ redirect_from:
 
 # About Me
 
-Hello! I'm **Chenyi Xu**, currently a third-year undergraduate at Hangzhou Dianzi University. I’m very fortunate to be advised by **Prof. Liqi Yan** at HDU, and since 2025 I’ve also been working closely with the **AGI Lab** at Westlake University under **Prof. Chi Zhang**.
+Hello! I'm **Chenyi Xu**, currently a third-year undergraduate at Hangzhou Dianzi University. I’m very fortunate to be advised by **Prof. Liqi Yan** at HDU, and in 2025 I was briefly supervised at the **AGI Lab** at Westlake University under **Prof. Chi Zhang**.
 
 My primary academic passion lies in **Computer Graphics** and **Embodied Intelligence**. I’m particularly interested in how we can make 3D content creation faster and more accessible, how embodied agents can better understand and navigate complex real-world (or augmented) environments, and how vision-language models can bridge perception and action more effectively.
 
