@@ -7,7 +7,7 @@ redirect_from:
 ---
 ---
 
-### About Me
+# About Me
 
 Hello! I'm **Chenyi Xu**, currently a third-year undergraduate at Hangzhou Dianzi University. I’m very fortunate to be advised by **Prof. Liqi Yan** at HDU, and since 2025 I’ve also been working closely with the **AGI Lab** at Westlake University under **Prof. Chi Zhang**.
 
@@ -27,7 +27,7 @@ I’m always glad to connect with people who work on graphics, embodied AI, visi
 
 ---
 
-### Selected Publications
+# Publications
 
 1. **Fast3Dcache: Training-free 3D Geometry Synthesis Acceleration**  
    Mengyu Yang, Yanming Yang, **Chenyi Xu**, Chenxi Song, Yufan Zuo, Tong Zhao, Ruibo Li, Chi Zhang*  
@@ -39,7 +39,7 @@ I’m always glad to connect with people who work on graphics, embodied AI, visi
 
 ---
 
-### News & Activities
+# News
 
 - **November 2025**  
   Very excited that our paper **AR-Nav Benchmark** has been accepted to **AAAI 2026** as an **Oral** presentation! Huge thanks to all co-authors and especially to my advisor for the support throughout the project.
