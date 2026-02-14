@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "xcy.png"
+  avatar           : "profile.png"
   name             : "Chenyi Xu"
   pronouns         : # example: "she/her"  
   bio              : "Third-year undergraduate at Hangzhou Dianzi University, focusing on Computer Graphics and Embodied Intelligence."
