@@ -17,7 +17,7 @@ I enjoy the full cycle of research — from reading papers and brainstorming ide
 
 Outside of research, I’m quite active in a few hobbies that help me recharge and stay inspired:
 
-- ♠️♥️ Playing **Mahjong** (especially Sichuan style) and various forms of **poker** — I love the mix of strategy, psychology, and social interaction  
+- ♠️♥️ Playing **Mahjong** and various forms of **poker** — I love the mix of strategy, psychology, and social interaction  
 - 🏔️ **Hiking** and **traveling** — I’ve been to quite a few beautiful places in China and hope to explore more internationally in the future  
 - 🎧 Listening to **podcasts** on science, technology, history, psychology, and sometimes just random interesting stories  
 
