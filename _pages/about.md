@@ -29,7 +29,7 @@ I’m always glad to connect with people who work on graphics, embodied AI, visi
 
 # Publications
 1. **LongDPM: Overlap-Aware 4D Reconstruction from Long Monocular Videos**  
-   Chenyi Xu, Yihao Wu, Liqi Yan*, Chao Yang, Jianhui Zhang, Fangli Guan, Pan Li  
+   **Chenyi Xu**, Yihao Wu, Liqi Yan*, Chao Yang, Jianhui Zhang, Fangli Guan, Pan Li  
    arXiv preprint arXiv:2605.17303, 2026
 
 2. **Fast3Dcache: Training-free 3D Geometry Synthesis Acceleration**  
