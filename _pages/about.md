@@ -9,7 +9,7 @@ redirect_from:
 
 # About Me
 
-Hello! I'm **Chenyi Xu**, currently a third-year undergraduate at Hangzhou Dianzi University. I’m very fortunate to be advised by **Prof. Liqi Yan** at HDU, and in 2025 I was briefly supervised at the **AGI Lab** at Westlake University under **Prof. Chi Zhang**.
+Hello! I'm **Chenyi Xu**, currently a forth-year undergraduate at Hangzhou Dianzi University. I’m very fortunate to be advised by **Prof. Liqi Yan** at HDU, and in 2025 I was briefly supervised at the **AGI Lab** at Westlake University under **Prof. Chi Zhang**.
 
 My primary academic passion lies in **Computer Graphics** and **Embodied Intelligence**. I’m particularly interested in how we can make 3D content creation faster and more accessible, how embodied agents can better understand and navigate complex real-world (or augmented) environments, and how vision-language models can bridge perception and action more effectively.
 
@@ -28,12 +28,15 @@ I’m always glad to connect with people who work on graphics, embodied AI, visi
 ---
 
 # Publications
+1. **LongDPM: Overlap-Aware 4D Reconstruction from Long Monocular Videos**  
+   Chenyi Xu, Yihao Wu, Liqi Yan*, Chao Yang, Jianhui Zhang, Fangli Guan, Pan Li  
+   arXiv preprint arXiv:2605.17303, 2026
 
-1. **Fast3Dcache: Training-free 3D Geometry Synthesis Acceleration**  
+2. **Fast3Dcache: Training-free 3D Geometry Synthesis Acceleration**  
    Mengyu Yang, Yanming Yang, **Chenyi Xu**, Chenxi Song, Yufan Zuo, Tong Zhao, Ruibo Li, Chi Zhang*  
-   arXiv preprint arXiv:2511.22533, 2025
+   **Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR-26)**, Poster Presentation, 2026
 
-2. **AR-Nav Benchmark: Augmented Reality Navigation with Vision and Language**  
+3. **AR-Nav Benchmark: Augmented Reality Navigation with Vision and Language**  
    Liqi Yan, Yihao Wu, **Chenyi Xu**, Chao Yang, Jianhui Zhang, Pan Li  
    **Proceedings of the AAAI Conference on Artificial Intelligence (AAAI-26)**, Oral Presentation, 2026
 
