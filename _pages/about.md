@@ -9,36 +9,34 @@ redirect_from:
 
 # About Me
 
-Hello! I'm **Chenyi Xu**, currently a forth-year undergraduate at Hangzhou Dianzi University. I’m very fortunate to be advised by **Prof. Liqi Yan** at HDU, and in 2025 I was briefly supervised at the **AGI Lab** at Westlake University under **Prof. Chi Zhang**.
+Hello! I'm **Chenyi Xu**, currently a forth-year undergraduate at Hangzhou Dianzi University. I’m very fortunate to be advised by **[Prof. Liqi Yan](https://ylqi.github.io/)** at HDU, and in 2025 I was briefly supervised at the **AGI Lab** at Westlake University under **[Prof. Chi Zhang](https://icoz69.github.io/)**. I am currently a research intern at the **HAI Lab** at Eastern Institute of Technology under **[Prof. Wentao Zhu](https://wentao.live/about.html)**. I am actively seeking master's or PhD opportunities for **Fall 2027**.
 
-My primary academic passion lies in **Computer Graphics** and **Embodied Intelligence**. I’m particularly interested in how we can make 3D content creation faster and more accessible, how embodied agents can better understand and navigate complex real-world (or augmented) environments, and how vision-language models can bridge perception and action more effectively.
+My research interests lie in **Computer Graphics** and **Embodied Intelligence** — how to make 3D content creation faster and more accessible, how embodied agents can better understand and navigate real-world (or augmented) environments, and how vision-language models can bridge perception and action. I enjoy the full research cycle, from reading papers and brainstorming ideas to implementing and evaluating prototypes, and I believe combining strong geometric understanding with modern foundation models opens up exciting possibilities.
 
-I enjoy the full cycle of research — from reading papers and brainstorming ideas, to implementing prototypes, running ablation studies, and finally seeing something actually work (or fail in interesting ways). I believe that combining strong geometric understanding with modern foundation models opens up many exciting possibilities.
-
-Outside of research, I’m quite active in a few hobbies that help me recharge and stay inspired:
-
-- ♠️♥️ Playing **Mahjong** and various forms of **poker** — I love the mix of strategy, psychology, and social interaction  
-- 🏔️ **Hiking** and **traveling** — I’ve been to quite a few beautiful places in China and hope to explore more internationally in the future  
-- 🎧 Listening to **podcasts** on science, technology, history, psychology, and sometimes just random interesting stories  
-
-These activities keep me curious, help me think from different angles, and remind me that life is more than just papers and deadlines.
-
-I’m always glad to connect with people who work on graphics, embodied AI, vision-language models, or just want to chat about research life, games, travel experiences, etc. Feel free to reach out!
+Outside of research, I like Mahjong, poker, hiking, traveling, and listening to podcasts. Feel free to reach out if you'd like to connect!
 
 ---
 
 # Publications
-1. **LongDPM: Overlap-Aware 4D Reconstruction from Long Monocular Videos**  
-   **Chenyi Xu**, Yihao Wu, Liqi Yan*, Chao Yang, Jianhui Zhang, Fangli Guan, Pan Li  
-   arXiv preprint arXiv:2605.17303, 2026
+1. **[LongDPM: Overlap-Aware 4D Reconstruction from Long Monocular Videos](https://arxiv.org/abs/2605.17303)**  
+   **Chenyi Xu**, Yihao Wu, Liqi Yan†, Chao Yang, Jianhui Zhang, Fangli Guan, Pan Li  
+   arXiv:2605.17303
 
-2. **Fast3Dcache: Training-free 3D Geometry Synthesis Acceleration**  
+2. **[Fast3Dcache: Training-free 3D Geometry Synthesis Acceleration](https://fast3dcache-agi.github.io/)**  
    Mengyu Yang, Yanming Yang, **Chenyi Xu**, Chenxi Song, Yufan Zuo, Tong Zhao, Ruibo Li, Chi Zhang*  
    **Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR-26)**, Poster Presentation, 2026
 
-3. **AR-Nav Benchmark: Augmented Reality Navigation with Vision and Language**  
-   Liqi Yan, Yihao Wu, **Chenyi Xu**, Chao Yang, Jianhui Zhang, Pan Li  
+3. **[AR-Nav Benchmark: Augmented Reality Navigation with Vision and Language](https://ojs.aaai.org/index.php/AAAI/article/view/38849)**  
+   Liqi Yan†, Yihao Wu, **Chenyi Xu**, Chao Yang, Jianhui Zhang, Pan Li  
    **Proceedings of the AAAI Conference on Artificial Intelligence (AAAI-26)**, Oral Presentation, 2026
+
+4. **ShapeNav: 3D Geometric Perception and Reasoning for Multi-Floor Vision-and-Language Navigation**  
+   Yihao Wu, Chenhuan Cai, Liqi Yan†, Mingxiang Li, **Chenyi Xu**, Chao Yang, Fangli Guan, Pan Li  
+   **Proceedings of the ACM International Conference on Multimedia 2026 (ACM MM 2026)**, Oral Presentation, 2026
+
+5. **[BrainNav: Towards Dual-Brain Minimal Sufficient Representation for Vision-Language Navigation](https://arxiv.org/abs/2607.23181)**  
+   Yihao Wu*, **Chenyi Xu***, Liqi Yan†, Chenhuan Cai, Geyong Min, Bin Lin, Fangli Guan, Jianhui Zhang, Pan Li 
+  arXiv:2607.23181
 
 ---
 
@@ -51,7 +49,7 @@ I’m always glad to connect with people who work on graphics, embodied AI, visi
   Joined the **PARK** project (University of Rochester) as a remote contributor. We built a web-based application that analyzes participants’ movements, speech, and facial expressions to help assess symptoms related to Parkinson’s disease.
 
 - **June – September 2025**  
-  Spent an unforgettable summer doing research at **AGI Lab, Westlake University**. Learned a tremendous amount from my advisor Prof. Chi Zhang and wonderful senior lab mates. Grateful for all the guidance, discussions, and late-night debugging sessions.
+  Spent an unforgettable summer doing research at **AGI Lab, Westlake University**. Learned a tremendous amount from my advisor [Prof. Chi Zhang](https://icoz69.github.io/) and wonderful senior lab mates. Grateful for all the guidance, discussions, and late-night debugging sessions.
 
 - **March 2025**  
   Received the **University First-Class Scholarship** for academic performance.
