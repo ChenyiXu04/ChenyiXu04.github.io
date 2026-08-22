@@ -23,7 +23,7 @@ Outside of research, I like Mahjong, poker, hiking, traveling, and listening to 
    arXiv:2605.17303
 
 2. **[Fast3Dcache: Training-free 3D Geometry Synthesis Acceleration](https://fast3dcache-agi.github.io/)**  
-   Mengyu Yang, Yanming Yang, **Chenyi Xu**, Chenxi Song, Yufan Zuo, Tong Zhao, Ruibo Li, Chi Zhang*  
+   Mengyu Yang, Yanming Yang, **Chenyi Xu**, Chenxi Song, Yufan Zuo, Tong Zhao, Ruibo Li, Chi Zhang†  
    **Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR-26)**, Poster Presentation, 2026
 
 3. **[AR-Nav Benchmark: Augmented Reality Navigation with Vision and Language](https://ojs.aaai.org/index.php/AAAI/article/view/38849)**  
