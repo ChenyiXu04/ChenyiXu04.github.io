@@ -35,7 +35,7 @@ Outside of research, I like Mahjong, poker, hiking, traveling, and listening to 
    **Proceedings of the ACM International Conference on Multimedia 2026 (ACM MM 2026)**, Oral Presentation, 2026
 
 5. **[BrainNav: Towards Dual-Brain Minimal Sufficient Representation for Vision-Language Navigation](https://arxiv.org/abs/2607.23181)**  
-   Yihao Wu*, **Chenyi Xu***, Liqi Yan†, Chenhuan Cai, Geyong Min, Bin Lin, Fangli Guan, Jianhui Zhang, Pan Li 
+   Yihao Wu*, **Chenyi Xu**\*, Liqi Yan†, Chenhuan Cai, Geyong Min, Bin Lin, Fangli Guan, Jianhui Zhang, Pan Li 
   arXiv:2607.23181
 
 ---
